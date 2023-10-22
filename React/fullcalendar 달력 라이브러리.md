@@ -5,7 +5,7 @@
 ```
 npm install @fullcalendar/react @fullcalendar/daygrid
 ```
- 
+
 # 핵심 코드 
 ```
 import React from 'react';
