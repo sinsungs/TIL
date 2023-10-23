@@ -16,4 +16,4 @@ Controller , Service , repository 폴더에 모든 모델의 파일이 한꺼번
 1개의 모델마다 폴더가 따로 생기고 폴더안에 모델의 해당하는 Controller , Service , repository 등의 파일이 모여있다
 1개의 모델에 대해서 작업할때 수정이 편할 것 같다
 
-<img src="./image/도메인형.JPG" alt="image-20230712215009203" style="zoom:67%;" />
+<img src="./image/도메인형.JPG" alt="image-20230712215009203"/>
